@@ -1,10 +1,10 @@
-#notes
+# notes
 
-##Add license
+## Add license
 
-##Add test_files
+## Add test_files
 
-##travis CI (or build passing flag)
+## travis CI (or build passing flag)
 
 add .travis.yml
 
@@ -30,7 +30,7 @@ add following line to README.md
 [![Build Status](https://secure.travis-ci.org/Parag08/hellogo.png?branch=master)](http://travis-ci.org/Parag08/hellogo)
 ```
 
-##Coverage (coveralls)
+## Coverage (coveralls)
 
 go to [Coveralls](https://coveralls.io/)
 
@@ -60,7 +60,7 @@ add following line to README.md
 [![Coverage Status](https://coveralls.io/repos/github/Parag08/hellogo/badge.svg?branch=master)](https://coveralls.io/github/Parag08/hellogo?branch=master) 
 ```
 
-##CII Best Practices
+## CII Best Practices
 
 go to [CII best practices](https://bestpractices.coreinfrastructure.org/)
 
